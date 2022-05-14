@@ -1,45 +1,7 @@
 # CYBER-SECURITY
 MY CYBER SECURITY LECTURES AND CODES 
-
-# SOME TCP/UDP PORTS AND THEİR NUMBERS
-
-| PORT NUMBER   | PORT NAME  |
-| ------------- | ------------- |
-| 22  | SSH  |
-|  411/412  | Direct Connect  |
-| 443| HTTP over SSL|
-|465 | SMTP over SSL|
-| 500| ISAKMP|
-| 563|NNTP over SSL |
-| 636|LDAP over SSL |
-| 989/990|FTP over SSL |
-|993 |IMAP4 over SSL |
-| 995|POOP3 over SSL|
-| 1080|MyDoom |
-|1214 |Kazaa |
-| 1337|WASTE |
-| 1725|Steam |
-| 1755|MS Media Server  |
-| 1863|MSN |
-| 2302|Halo |
-|2745 |Bagle h. |
-|3074 |XBOX Live |
-|3127 |MyDoom |
-|3724 |World Of Warcracft |
-| 3784/3785|Ventrilo |
-| 4444|Blaster  |
-| 4672|eMule |
-| 5001|Slingbox |
-|5004/5005 | RTP|
-| 5050 | Yahoo! Messenger|
-|5060|SIP|
-|5190|AIM/ICO|
-|5222/5223|XMPP/Jabber|
-|5554|Sasser |
-|6112|Battle net|
-|6257|WinMax|
-|6346/6347|Gnutella|
-|5600|GameSpy Arcade |
-|6665/6659|IRC|
-|6881|BitTorrent|
-|28960|Call Of Duty|
+# DDoS VE DoS ARASINDAKİ FARKLAR 
+# DoS NEDİR?
+DoS yani açılımıyla Denial Of Service  (Hizmet Reddi ) saldırgan makine/PC tarafından hedef sistemin çalışmasının aksatma amacı taşıyan saldırı türüdür .bu saldırı web trafiği engelleme ,bant genişliği düşürme şeklinde kendini gösterebilir .Bunlar en yaygın saldırı şekilleridir .Buradaki amaç makinayı ele geçirmek değil sistemin çalışmasını ve hizmet vermesini engellemektir .ilk DoS saldırısı 1974'te bir lise öğrencisi tarafından gerçekleştirilmiştir .
+# DDoS NEDİR?
+DDoS yani açılımıyla Distributed Denial Of Service (dağıtılmış Hizmet Reddi ) DoS' tan farkı DDoS 'un birden fazla saldırgan makina kullanarak saldırıyı gerçekleştirmesi bunun için zombi adı verilen ele geçirilen PC 'leri kullanarak botnetler ile hizmetleri aksatmasıdır .Buna bağlı olarakn DDoS un etki alanı daha fazla ve verdiği zarar daha yüksektir .DDoS ' un ilkn saldırısı 1999 yılında Minnesota Üniversitesine karşı Trinoo adlı araç ile gerçekleştirilmiştir .
